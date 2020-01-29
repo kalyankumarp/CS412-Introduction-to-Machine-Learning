@@ -1,1 +1,1 @@
-# CS418-Introduction-to-Machine-Learning
+# CS412-Introduction-to-Machine-Learning
